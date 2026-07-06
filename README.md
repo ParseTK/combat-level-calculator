@@ -36,3 +36,18 @@ A RuneLite plugin that allows players to preview their combat level based on cus
 ## License
 
 BSD-2
+
+---
+
+<img width="271" height="799" alt="combat-level-calculator-icon" src="https://github.com/user-attachments/assets/18a58ff9-9af9-4fac-ad74-5f197fb75d94" />
+
+---
+
+<img width="235" height="182" alt="combat-level-calculator-fetch" src="https://github.com/user-attachments/assets/38868ff6-2d31-46b6-8d0c-aa88c5673fb2" />
+
+---
+
+<img width="236" height="460" alt="combat-level-calculator-builds" src="https://github.com/user-attachments/assets/0614bc2d-aad8-4a19-9c53-7fcd2750bbf6" />
+
+
+
